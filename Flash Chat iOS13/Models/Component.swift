@@ -6,10 +6,10 @@
 //  Copyright © 2020 Angela Yu. All rights reserved.
 //
 
-import Foundation
 
 struct Component {
-     static let cellIdentifier = "ReusableCell"
+    static let titleName = "⚡️FlashChat"
+    static let cellIdentifier = "ReusableCell"
        static let cellNibName = "MessageCell"
        static let registerSegue = "RegisterToChat"
        static let loginSegue = "LoginToChat"
