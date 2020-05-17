@@ -1,8 +1,8 @@
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 # Flash-Chat
-
-## Our Goal
+通信教材の課題で作ったチャットアプリです。firebaseで通信をしてデータを読み込んでいます。
+https://github.com/Jinno-Shigeki/flashchat/issues/1#issue-619679416## Our Goal
 
 One of the most fundamental component of modern iOS apps is the Table View. Table Views are used everywhere from the Mail app to the Messages app. It’s a crucial part of every iOS developer’s tool belt. In this tutorial we’ll be getting to grips with Table Views, creating custom cells, and making our own cloud-based backend database. It’s going to be epic, so buckle up.
 
