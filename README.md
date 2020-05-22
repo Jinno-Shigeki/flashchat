@@ -1,7 +1,6 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 # Flash-Chat
-通信教材の課題で作ったチャットアプリです。firebaseで通信をしてデータを読み込んでいます。
+通信教材の課題で作ったチャットアプリです。今回の主要な課題はfirebaseを使って通信しデータを送信、受信することです。
 https://github.com/Jinno-Shigeki/flashchat/issues/1#issue-619679416
 
 ## Our Goal
